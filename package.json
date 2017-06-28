@@ -1,0 +1,19 @@
+{
+  "name": "passjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blixa Morgan (MrMakeIt) <blixa@projectmakeit.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "input": "^1.0.1",
+    "minimist": "^1.2.0",
+    "openpgp": "^2.5.4",
+    "pkcs11js": "^1.0.9",
+    "schema": "^0.2.1"
+  }
+}
